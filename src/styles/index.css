@@ -177,6 +177,11 @@ html {
     flex-direction: row;
 }
 
+.logo {
+    width: 235%;
+    object-fit: cover;
+}
+
 .header-navlink1 {
     margin-top: var(--dl-space-space-halfunit);
     transition: 0.3s;
@@ -502,6 +507,12 @@ html {
     margin-bottom: var(--dl-space-space-halfunit);
 }
 
+.footer-text:hover {
+    font-weight: 800;
+    margin-bottom: var(--dl-space-space-halfunit);
+    cursor: pointer;
+}
+
 .footer-container2 {
     display: flex;
     justify-content: space-between;
@@ -517,6 +528,13 @@ html {
 .footer-text02 {
     font-weight: 700;
     margin-bottom: var(--dl-space-space-halfunit);
+    
+}
+
+.footer-text02:hover {
+
+    margin-bottom: var(--dl-space-space-halfunit);
+    cursor: pointer;
 }
 
 .footer-text03 {
@@ -526,7 +544,15 @@ html {
 }
 
 .footer-text03:hover {
+
+    margin-bottom: var(--dl-space-space-halfunit);
+    cursor: pointer;
+}
+
+
+.footer-text03:hover {
     color: var(--dl-color-gray-white);
+    cursor: pointer;
 }
 
 .footer-text04 {
@@ -537,6 +563,7 @@ html {
 
 .footer-text04:hover {
     color: var(--dl-color-gray-white);
+    cursor: pointer;
 }
 
 .footer-text05 {
@@ -547,6 +574,7 @@ html {
 
 .footer-text05:hover {
     color: var(--dl-color-gray-white);
+    cursor: pointer;
 }
 
 .footer-container4 {
@@ -562,6 +590,12 @@ html {
     margin-bottom: var(--dl-space-space-halfunit);
 }
 
+.footer-text06:hover {
+
+    margin-bottom: var(--dl-space-space-halfunit);
+    cursor: pointer;
+}
+
 .footer-text07 {
     color: var(--dl-color-gray-800);
     transition: 0.3s;
@@ -570,6 +604,7 @@ html {
 
 .footer-text07:hover {
     color: var(--dl-color-gray-white);
+    cursor: pointer;
 }
 
 .footer-text08 {
@@ -580,6 +615,7 @@ html {
 
 .footer-text08:hover {
     color: var(--dl-color-gray-white);
+    cursor: pointer;
 }
 
 .footer-text09 {
@@ -590,6 +626,7 @@ html {
 
 .footer-text09:hover {
     color: var(--dl-color-gray-white);
+    cursor: pointer;
 }
 
 .footer-container5 {
@@ -605,6 +642,12 @@ html {
     margin-bottom: var(--dl-space-space-halfunit);
 }
 
+.footer-text10:hover {
+
+    margin-bottom: var(--dl-space-space-halfunit);
+    cursor: pointer;
+}
+
 .footer-text11 {
     color: var(--dl-color-gray-800);
     transition: 0.3s;
@@ -613,6 +656,7 @@ html {
 
 .footer-text11:hover {
     color: var(--dl-color-gray-white);
+    cursor: pointer;
 }
 
 .footer-text12 {
@@ -623,6 +667,7 @@ html {
 
 .footer-text12:hover {
     color: var(--dl-color-gray-white);
+    cursor: pointer;
 }
 
 .footer-text13 {
@@ -633,6 +678,7 @@ html {
 
 .footer-text13:hover {
     color: var(--dl-color-gray-white);
+    cursor: pointer;
 }
 
 .footer-image {
