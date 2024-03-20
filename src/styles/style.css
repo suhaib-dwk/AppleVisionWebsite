@@ -27,6 +27,10 @@
   --dl-space-space-tripleunit: 3rem;
   --dl-space-space-unitandahalfunit: 1.5rem;
   --dl-space-space-triplequarterunit: 0.75rem;
+  --dl-showcase-title:rgb(37, 47, 64);
+  --dl-showcase-desc:rgb(103, 116, 142);
+  --dl-showcase-author:rgb(203, 12, 159);
+  --dl-quote-border-color:#cb0c9f;
 }
 
 .button {
